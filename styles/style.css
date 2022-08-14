@@ -1,3 +1,9 @@
 .panda-bg-color{
     background-color: #fceae8;
 }
+.categories{
+    background-color: #007474 !important;
+}
+.card-radiaus{
+    border-radius: 30px;
+}
