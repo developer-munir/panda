@@ -32,9 +32,7 @@ for (const categoriesItem of categoriesItems) {
 // cards
 const cards = document.getElementsByClassName("card");
 for (const card of cards) {
-  card.addEventListener('dblclick', function () {
-    card.classList.add("card-radiaus");
-  })
+  card.classList.add("card-radiaus");
 }
 
 // email submit button
